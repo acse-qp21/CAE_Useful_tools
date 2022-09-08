@@ -8,7 +8,6 @@ import os
 os.environ['KMP_DUPLICATE_LIB_OK']='True'
 
 import sys
-import vtk
 import numpy as np
 import time
 import glob
