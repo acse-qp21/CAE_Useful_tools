@@ -23,7 +23,6 @@ import re
 from matplotlib import animation
 from IPython.display import HTML
 # custom colormap
-import cmocean
 
 import torch  # Pytorch
 import torch.nn as nn  # Neural network module
